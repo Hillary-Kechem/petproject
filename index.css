@@ -5,11 +5,14 @@
 }
 .MotherDiv{
         background-color: red;
-        height: 1200px;
+        height: auto;
         
 }
 #navbar ul{
     list-style: none;
     display: flex;
     justify-content: space-between;
+}
+.catfloat{
+    float:right;
 }
