@@ -4,11 +4,9 @@
 
 }
 .MotherDiv{
-        background-color: red;
+        background-color: white;
         height: auto;
         border: solid blue;
-        background-image: url("catimg/download(1).jpeg")
-        
 }
 #navbar ul{
     list-style: none;
@@ -20,4 +18,11 @@
 }
 .pets{
     display: flexbox;
+}
+.cat{
+    background-image: url(catImg/download\ \(4\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
 }
