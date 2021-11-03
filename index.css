@@ -6,6 +6,8 @@
 .MotherDiv{
         background-color: red;
         height: auto;
+        border: solid blue;
+        background-image: url("catimg/download(1).jpeg")
         
 }
 #navbar ul{
@@ -15,4 +17,7 @@
 }
 .catfloat{
     float:right;
+}
+.pets{
+    display: flexbox;
 }
